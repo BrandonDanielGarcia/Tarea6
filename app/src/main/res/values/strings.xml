@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tarea6</string>
+    <string name="name">Nombre: </string>
+    <string name="email">Color Favorito: </string>
+    <string name="phone">Comida Favorita: </string>
+    <string name="old">numero Favorito: </string>
+    <string name="convertButtom">Convertir</string>
+    <string name="ingresar">Ingrese aqui sus datos</string>
+</resources>
